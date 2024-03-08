@@ -286,7 +286,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zheng,Zheng*]
+  last_name: [Zheng, Zheng*]
   first_name: [Zhongtian]
 
   style: apa
