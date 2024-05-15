@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zzttzz.github.io/cn/sitemap.xml
