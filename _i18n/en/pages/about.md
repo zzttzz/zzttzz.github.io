@@ -1,1 +1,1 @@
-我是北京大学计算机科学学院的三年级硕士研究生，导师是汪国平教授。我于2017年在北京大学数学科学学院获得了学士学位。
+I am a thrid year Master candidate of the School of Computer Science, Peking University, supervised by Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
