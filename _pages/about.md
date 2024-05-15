@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: zhengzhongtian AT pku.edu.cn
 
-profils:
+profile:
   align: left
   image: prof_pic.jpg
   content: about_me.md
