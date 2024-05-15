@@ -6,7 +6,7 @@ subtitle: zhengzhongtian AT pku.edu.cn
 
 profiles:
   - align: left
-    image: prof_pic.jpg
+    image: prof_pic.png
     content: about_me.md
     image_circular: false # crops the image to make it circular
     more_info: >
