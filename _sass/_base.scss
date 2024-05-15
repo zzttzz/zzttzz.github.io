@@ -380,11 +380,10 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
-
+  font-size: 2rem;
   .contact-icons {
     a {
       i::before {
-        font-size: 30px;
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
