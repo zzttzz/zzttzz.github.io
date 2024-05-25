@@ -1,13 +1,5 @@
-I am currently a thrid year Master candidate of the School of Computer Science, Peking University, supervised by Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
-XXX
-I am currently a thrid year Master candidate of the School of Computer Science, Peking University, supervised by Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
-XXX
+I am about to join LightSpeed Studios, Tencent.
 
-I am currently a thrid year Master candidate of the School of Computer Science, Peking University, supervised by Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
-XXX
+Before that, I obtained my M.Sc. degree at the School of Computer Science, Peking University, under the supervision of Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
 
-I am currently a thrid year Master candidate of the School of Computer Science, Peking University, supervised by Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
-XXX
-
-I am currently a thrid year Master candidate of the School of Computer Science, Peking University, supervised by Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2017.
-XXX
+My primary research interests lie in the field of computer graphics, focusing on geometry processing, real-time rendering, and physics-based simulation. I also have experience in computer-aided design, remote sensing, and visual localization.
