@@ -83,7 +83,17 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
+    <!-- Education -->
+    {% if page.full_list %}
+      <h2>
+        {% if site.lang == 'en' %}
+          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Full list</a>
+        {% elsif site.lang == 'cn' %}
+          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">所有论文</a>
+        {% endif %}
+      </h2>
+      {% include full_list.liquid %}
+    {% endif %}
     <!-- Education -->
     {% if page.education %}
       <h2>
