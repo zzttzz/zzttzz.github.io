@@ -70,18 +70,6 @@ layout: default
         </div>
       </div>
     </div>
-
-    <!-- Education -->
-    {% if page.education %}
-      <h2>
-        {% if site.lang == 'en' %}
-          <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
-        {% elsif site.lang == 'cn' %}
-          <a href="{{ '/education/' | relative_url }}" style="color: inherit">教育经历</a>
-        {% endif %}
-      </h2>
-      {% include education.liquid %}
-    {% endif %}
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
