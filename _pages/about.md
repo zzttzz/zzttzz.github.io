@@ -15,8 +15,8 @@ interests:
   - Geometry Processing
   - 3D Reconstruction
 education:
-  - degree: Bachelor
-    year: X
+  - degree: Bachelor of Science in Mathematical Sciences
+    year: 2017
     university: Peking University
     country: China
 news: true # includes a list of news items
