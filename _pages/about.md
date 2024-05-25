@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p>Peking University</p>
 interests:
-  Computer Graphics
-  Geometry Processing
-  3D Reconstruction
+  - Computer Graphics
+  - Geometry Processing
+  - 3D Reconstruction
 
 education:
   - degree: Bachelor
