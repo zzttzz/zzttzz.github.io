@@ -1116,3 +1116,15 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.column {
+  flex: 1;
+  min-width: 45%;
+  box-sizing: border-box;
+  padding: 10px;
+}
