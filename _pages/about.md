@@ -10,6 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Peking University</p>
+interests:
+  CG
+education:
+  undergraduate:
+    degree: Bachelor
+    year: 2017
+    university: Peking University
+    country: China
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

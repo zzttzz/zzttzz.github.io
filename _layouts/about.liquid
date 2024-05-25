@@ -46,8 +46,37 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
+    <div class="clearfix">
+      {{ content }}
+      <h2>Interests</h2>
+      <ul>
+        {% for interest in page.interests %}
+          <li>{{ interest }}</li>
+        {% endfor %}
+      </ul>
 
+      <h2>Education</h2>
+      <ul>
+        {% for education in page.education %}
+          <li>
+            {{ education.degree }} ({{ education.year }}) <br>
+            {{ education.university }}, {{ education.country }}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- Education -->
+    {% if page.education %}
+      <h2>
+        {% if site.lang == 'en' %}
+          <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
+        {% elsif site.lang == 'cn' %}
+          <a href="{{ '/education/' | relative_url }}" style="color: inherit">教育经历</a>
+        {% endif %}
+      </h2>
+      {% include education.liquid %}
+    {% endif %}
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -93,17 +122,6 @@ layout: default
         {% endif %}
       </h2>
       {% include full_list.liquid %}
-    {% endif %}
-    <!-- Education -->
-    {% if page.education %}
-      <h2>
-        {% if site.lang == 'en' %}
-          <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
-        {% elsif site.lang == 'cn' %}
-          <a href="{{ '/education/' | relative_url }}" style="color: inherit">教育经历</a>
-        {% endif %}
-      </h2>
-      {% include education.liquid %}
     {% endif %}
   </article>
 </div>
