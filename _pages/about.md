@@ -11,10 +11,12 @@ profile:
   more_info: >
     <p>Peking University</p>
 interests:
-  CG
+  Computer Graphics
+  Geometry Processing
+  3D Reconstruction
+
 education:
-  undergraduate:
-    degree: Bachelor
+  - degree: Bachelor
     year: 2017
     university: Peking University
     country: China
