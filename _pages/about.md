@@ -19,6 +19,10 @@ education:
     year: 2017
     university: Peking University
     country: China
+  - degree: Master of Science in Computer Software and Theory
+    year: 2024
+    university: Peking University
+    country: China
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
