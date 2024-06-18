@@ -3,11 +3,11 @@ titles:
   blog: Blog
   cv: CV
   news: News
-  projects: projects
+  projects: Projects
   publications: Publications
-  repositories: repositories
-  teaching: teaching
-  submenus: submenus
+  repositories: Repositories
+  teaching: Teaching
+  submenus: Submenus
   unk: page not found
 projects:
   titles:
