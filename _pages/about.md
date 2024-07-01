@@ -20,7 +20,7 @@ education:
     university: Peking University
     country: China
   - degree: Bachelor of Science in Mathematical Sciences
-    year: 2017
+    year: 2021
     university: Peking University
     country: China
 
