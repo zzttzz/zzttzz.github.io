@@ -1,4 +1,4 @@
-I am about to join LightSpeed Studios, Tencent.
+I am currently working at LightSpeed Studios, Tencent.
 
 Before that, I obtained my M.Sc. degree at the School of Computer Science, Peking University, under the supervision of Prof. Guoping Wang. I received my Bachelor's degree from the School of Mathematical Sciences at Peking University in 2021.
 
